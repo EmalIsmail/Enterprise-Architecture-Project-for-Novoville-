@@ -17,7 +17,7 @@ AVP – Architecture Vision Phase
 11. Gap Analysis by identifying specific changes (at least two) needed to achieve the target Business Architecture (based on a comparison of the baseline and target architectures)
 12. To address the previously identified gaps, identify at least two major roadmap component(s) for the target business architecture and briefly describe what these components deliver and to whom. 
 
-# ISAP – Information Systems Architecture Phase (19p):
+# ISAP – Information Systems Architecture Phase:
 13. Architecture development approach of the ISAP? Argue of the best approach (Application or Data) to your specific project and provide a reasonable argumentation. 
 Depending on your answer here develop either task 13 or 14 first.
 14. Baseline and target data architecture for your scenario, highlighting the changes in the target data architecture:
@@ -60,4 +60,4 @@ Note: use a table that should contain the following columns: Del. Nr. | Name and
 
 
 Reference list:
-33. Provide a structured list of all sources (e.g. documentation, papers, URLs).
+Provide a structured list of all sources (e.g. documentation, papers, URLs).
